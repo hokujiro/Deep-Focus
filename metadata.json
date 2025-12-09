@@ -1,0 +1,8 @@
+{
+  "name": "Deep focus",
+  "description": "A high-contrast, Swiss-design inspired Pomodoro timer that uses AI vision to detect phone usage and enforce focus.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
