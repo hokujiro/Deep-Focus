@@ -9,16 +9,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "recharts": "^3.5.1",
+    "@google/genai": "^1.31.0",
+    "@tensorflow-models/coco-ssd": "2.2.3",
+    "@tensorflow/tfjs": "4.17.0",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
-    "@google/genai": "^1.31.0",
-    "@tensorflow/tfjs": "4.17.0",
-    "@tensorflow-models/coco-ssd": "2.2.3"
+    "recharts": "^3.5.1"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.1.17",
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
